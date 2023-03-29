@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "primeras pruebas de css",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build:css": "postcss ./src/tailwind.css -o ./public/css/second.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "todavia-nada"
+  },
+  "author": "cristian aviles",
+  "license": "ISC"
+}
